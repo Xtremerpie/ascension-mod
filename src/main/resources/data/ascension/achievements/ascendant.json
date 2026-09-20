@@ -1,0 +1,14 @@
+{
+  "id": "ascendant",
+  "title": "Ascendant",
+  "description": "Reach Ascension Level 10.",
+  "category": "ASCENSION",
+  "condition": {
+    "statKey": "ascension_level",
+    "thresholdValue": 10
+  },
+  "rewardIds": [
+    "reward_blueprint_bridge"
+  ],
+  "repeatable": false
+}

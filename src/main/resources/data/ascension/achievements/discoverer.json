@@ -1,0 +1,14 @@
+{
+  "id": "discoverer",
+  "title": "Discoverer",
+  "description": "Observe 150 distinct entities via the targeting HUD.",
+  "category": "DISCOVERY",
+  "condition": {
+    "statKey": "entities_observed",
+    "thresholdValue": 150
+  },
+  "rewardIds": [
+    "reward_xp_medium"
+  ],
+  "repeatable": false
+}

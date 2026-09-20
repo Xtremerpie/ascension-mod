@@ -1,0 +1,15 @@
+{
+  "id": "master_of_ascension",
+  "title": "Master of Ascension",
+  "description": "Complete 25 ASCENSION achievements.",
+  "category": "MASTERY",
+  "condition": {
+    "statKey": "achievements_completed",
+    "thresholdValue": 25
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_item_diamonds_medium"
+  ],
+  "repeatable": false
+}

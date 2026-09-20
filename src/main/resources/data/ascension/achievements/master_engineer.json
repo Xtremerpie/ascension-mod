@@ -1,0 +1,15 @@
+{
+  "id": "master_engineer",
+  "title": "Master Engineer",
+  "description": "Build 5 ASCENSION structures.",
+  "category": "ENGINEERING",
+  "condition": {
+    "statKey": "structures_built",
+    "thresholdValue": 5
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_blueprint_training_arena"
+  ],
+  "repeatable": false
+}

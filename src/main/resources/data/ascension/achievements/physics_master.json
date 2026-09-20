@@ -1,0 +1,15 @@
+{
+  "id": "physics_master",
+  "title": "Physics Master",
+  "description": "Fire 500 arrows.",
+  "category": "PHYSICS",
+  "condition": {
+    "statKey": "projectiles_fired",
+    "thresholdValue": 500
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_enchantment_precision"
+  ],
+  "repeatable": false
+}

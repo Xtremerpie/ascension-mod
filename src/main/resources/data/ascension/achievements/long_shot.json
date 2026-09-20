@@ -1,0 +1,15 @@
+{
+  "id": "long_shot",
+  "title": "Long Shot",
+  "description": "Hit a target from 60 blocks away.",
+  "category": "PHYSICS",
+  "condition": {
+    "statKey": "longest_projectile_hit_blocks",
+    "thresholdValue": 60
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_blueprint_archer_tower"
+  ],
+  "repeatable": false
+}

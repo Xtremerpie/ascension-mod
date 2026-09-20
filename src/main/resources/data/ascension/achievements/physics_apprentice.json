@@ -1,0 +1,14 @@
+{
+  "id": "physics_apprentice",
+  "title": "Physics Apprentice",
+  "description": "Fire 50 arrows.",
+  "category": "PHYSICS",
+  "condition": {
+    "statKey": "projectiles_fired",
+    "thresholdValue": 50
+  },
+  "rewardIds": [
+    "reward_xp_small"
+  ],
+  "repeatable": false
+}

@@ -1,0 +1,15 @@
+{
+  "id": "projectile_master",
+  "title": "Projectile Master",
+  "description": "Land 100 confirmed projectile hits.",
+  "category": "PHYSICS",
+  "condition": {
+    "statKey": "projectiles_hit",
+    "thresholdValue": 100
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_item_diamonds_small"
+  ],
+  "repeatable": false
+}

@@ -1,0 +1,6 @@
+{
+  "id": "reward_item_gold",
+  "type": "item",
+  "itemId": "minecraft:gold_ingot",
+  "count": 5
+}

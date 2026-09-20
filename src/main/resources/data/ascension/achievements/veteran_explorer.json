@@ -1,0 +1,15 @@
+{
+  "id": "veteran_explorer",
+  "title": "Veteran Explorer",
+  "description": "Travel 30,000 blocks in total.",
+  "category": "EXPLORATION",
+  "condition": {
+    "statKey": "distance_travelled_blocks",
+    "thresholdValue": 30000
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_item_diamonds_small"
+  ],
+  "repeatable": false
+}

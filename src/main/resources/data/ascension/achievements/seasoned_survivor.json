@@ -1,0 +1,15 @@
+{
+  "id": "seasoned_survivor",
+  "title": "Seasoned Survivor",
+  "description": "Play for roughly 3.3 real-world hours in total.",
+  "category": "SURVIVAL",
+  "condition": {
+    "statKey": "time_played_ticks",
+    "thresholdValue": 240000
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_item_gold"
+  ],
+  "repeatable": false
+}

@@ -1,0 +1,6 @@
+{
+  "id": "reward_enchantment_precision",
+  "type": "enchantment",
+  "durationTicks": 12000,
+  "amplifier": 1
+}

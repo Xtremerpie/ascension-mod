@@ -1,0 +1,14 @@
+{
+  "id": "survivor",
+  "title": "Survivor",
+  "description": "Play for roughly 20 real-world minutes in a single world.",
+  "category": "SURVIVAL",
+  "condition": {
+    "statKey": "time_played_ticks",
+    "thresholdValue": 24000
+  },
+  "rewardIds": [
+    "reward_xp_small"
+  ],
+  "repeatable": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "sky_walker",
+  "title": "Sky Walker",
+  "description": "Reach an altitude of Y=300.",
+  "category": "EXPLORATION",
+  "condition": {
+    "statKey": "highest_altitude_y",
+    "thresholdValue": 300
+  },
+  "rewardIds": [
+    "reward_xp_medium"
+  ],
+  "repeatable": false
+}

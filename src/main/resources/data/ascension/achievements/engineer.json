@@ -1,0 +1,14 @@
+{
+  "id": "engineer",
+  "title": "Engineer",
+  "description": "Build 1 ASCENSION structure.",
+  "category": "ENGINEERING",
+  "condition": {
+    "statKey": "structures_built",
+    "thresholdValue": 1
+  },
+  "rewardIds": [
+    "reward_xp_small"
+  ],
+  "repeatable": false
+}

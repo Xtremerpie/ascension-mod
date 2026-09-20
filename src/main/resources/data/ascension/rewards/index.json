@@ -1,0 +1,16 @@
+[
+  "reward_xp_small.json",
+  "reward_xp_medium.json",
+  "reward_xp_large.json",
+  "reward_item_iron.json",
+  "reward_item_gold.json",
+  "reward_item_diamonds_small.json",
+  "reward_item_diamonds_medium.json",
+  "reward_blueprint_watchtower.json",
+  "reward_blueprint_archer_tower.json",
+  "reward_blueprint_explorer_camp.json",
+  "reward_blueprint_bridge.json",
+  "reward_blueprint_training_arena.json",
+  "reward_blueprint_small_laboratory.json",
+  "reward_enchantment_precision.json"
+]

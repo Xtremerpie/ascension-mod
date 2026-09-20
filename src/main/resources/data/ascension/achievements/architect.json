@@ -1,0 +1,15 @@
+{
+  "id": "architect",
+  "title": "Architect",
+  "description": "Place 5,000 blocks while building.",
+  "category": "BUILDING",
+  "condition": {
+    "statKey": "blocks_placed",
+    "thresholdValue": 5000
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_blueprint_small_laboratory"
+  ],
+  "repeatable": false
+}

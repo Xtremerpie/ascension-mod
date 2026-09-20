@@ -1,0 +1,14 @@
+{
+  "id": "small_laboratory",
+  "name": "Small Laboratory",
+  "description": "A compact enclosed room with crafting/brewing stations, unlocked for Architect.",
+  "sizeX": 7,
+  "sizeY": 5,
+  "sizeZ": 7,
+  "materials": {
+    "minecraft:smooth_stone": 180,
+    "minecraft:glass": 20,
+    "minecraft:crafting_table": 1,
+    "minecraft:brewing_stand": 1
+  }
+}

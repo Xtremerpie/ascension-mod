@@ -1,0 +1,14 @@
+{
+  "id": "first_structure",
+  "title": "First Structure",
+  "description": "Place 64 blocks while building.",
+  "category": "BUILDING",
+  "condition": {
+    "statKey": "blocks_placed",
+    "thresholdValue": 64
+  },
+  "rewardIds": [
+    "reward_xp_small"
+  ],
+  "repeatable": false
+}

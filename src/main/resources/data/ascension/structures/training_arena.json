@@ -1,0 +1,13 @@
+{
+  "id": "training_arena",
+  "name": "Training Arena",
+  "description": "A fenced practice yard with target blocks for testing projectile achievements.",
+  "sizeX": 12,
+  "sizeY": 4,
+  "sizeZ": 12,
+  "materials": {
+    "minecraft:oak_fence": 88,
+    "minecraft:target": 4,
+    "minecraft:oak_planks": 144
+  }
+}

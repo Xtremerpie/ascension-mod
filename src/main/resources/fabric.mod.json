@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "ascension",
+  "version": "${version}",
+  "name": "Ascension",
+  "description": "An intelligence and progression layer for Minecraft: contextual HUD, physics analysis, achievements, progression and structures — without changing vanilla survival.",
+  "authors": ["Xtremerpie"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.xtremerpie.ascension.AscensionMod"],
+    "client": ["com.xtremerpie.ascension.client.AscensionClient"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "world_observer",
+  "title": "World Observer",
+  "description": "Observe 25 distinct entities via the targeting HUD.",
+  "category": "DISCOVERY",
+  "condition": {
+    "statKey": "entities_observed",
+    "thresholdValue": 25
+  },
+  "rewardIds": [
+    "reward_xp_small"
+  ],
+  "repeatable": false
+}

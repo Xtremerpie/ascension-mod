@@ -1,0 +1,15 @@
+{
+  "id": "master_builder",
+  "title": "Master Builder",
+  "description": "Place 1,000 blocks while building.",
+  "category": "BUILDING",
+  "condition": {
+    "statKey": "blocks_placed",
+    "thresholdValue": 1000
+  },
+  "rewardIds": [
+    "reward_xp_medium",
+    "reward_item_iron"
+  ],
+  "repeatable": false
+}

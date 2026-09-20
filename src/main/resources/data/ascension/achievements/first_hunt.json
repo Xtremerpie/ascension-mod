@@ -1,0 +1,14 @@
+{
+  "id": "first_hunt",
+  "title": "First Hunt",
+  "description": "Defeat a hostile mob.",
+  "category": "COMBAT",
+  "condition": {
+    "statKey": "mobs_killed",
+    "thresholdValue": 1
+  },
+  "rewardIds": [
+    "reward_xp_small"
+  ],
+  "repeatable": false
+}

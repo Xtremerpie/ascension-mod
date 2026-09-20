@@ -1,0 +1,15 @@
+{
+  "id": "adept_of_ascension",
+  "title": "Adept of Ascension",
+  "description": "Complete 15 ASCENSION achievements.",
+  "category": "MASTERY",
+  "condition": {
+    "statKey": "achievements_completed",
+    "thresholdValue": 15
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_item_diamonds_small"
+  ],
+  "repeatable": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "explorer_camp",
+  "name": "Explorer Camp",
+  "description": "A small open-air camp: a fire pit, a supply chest and a canopy.",
+  "sizeX": 7,
+  "sizeY": 5,
+  "sizeZ": 7,
+  "materials": {
+    "minecraft:oak_log": 40,
+    "minecraft:oak_planks": 60,
+    "minecraft:campfire": 1,
+    "minecraft:chest": 1
+  }
+}

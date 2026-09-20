@@ -1,0 +1,14 @@
+{
+  "id": "apprentice_of_ascension",
+  "title": "Apprentice of Ascension",
+  "description": "Complete 5 ASCENSION achievements.",
+  "category": "MASTERY",
+  "condition": {
+    "statKey": "achievements_completed",
+    "thresholdValue": 5
+  },
+  "rewardIds": [
+    "reward_xp_medium"
+  ],
+  "repeatable": false
+}

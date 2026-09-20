@@ -1,0 +1,12 @@
+{
+  "id": "bridge",
+  "name": "Bridge",
+  "description": "A straight stone-brick bridge with railings, spanning a configurable gap.",
+  "sizeX": 5,
+  "sizeY": 4,
+  "sizeZ": 16,
+  "materials": {
+    "minecraft:stone_bricks": 200,
+    "minecraft:stone_brick_wall": 60
+  }
+}

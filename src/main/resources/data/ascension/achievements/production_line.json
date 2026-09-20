@@ -1,0 +1,15 @@
+{
+  "id": "production_line",
+  "title": "Production Line",
+  "description": "Build 10 ASCENSION structures.",
+  "category": "ENGINEERING",
+  "condition": {
+    "statKey": "structures_built",
+    "thresholdValue": 10
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_item_diamonds_medium"
+  ],
+  "repeatable": false
+}

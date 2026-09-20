@@ -1,0 +1,14 @@
+{
+  "id": "speed_runner",
+  "title": "Speed Runner",
+  "description": "Reach a measured speed of 12 blocks per second.",
+  "category": "COMBAT",
+  "condition": {
+    "statKey": "highest_velocity_blocks_per_second",
+    "thresholdValue": 12
+  },
+  "rewardIds": [
+    "reward_xp_medium"
+  ],
+  "repeatable": false
+}

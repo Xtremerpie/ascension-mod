@@ -1,0 +1,14 @@
+{
+  "id": "precision",
+  "title": "Precision",
+  "description": "Hit a target from 30 blocks away.",
+  "category": "PHYSICS",
+  "condition": {
+    "statKey": "longest_projectile_hit_blocks",
+    "thresholdValue": 30
+  },
+  "rewardIds": [
+    "reward_xp_medium"
+  ],
+  "repeatable": false
+}

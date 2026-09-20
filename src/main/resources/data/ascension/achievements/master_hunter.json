@@ -1,0 +1,15 @@
+{
+  "id": "master_hunter",
+  "title": "Master Hunter",
+  "description": "Defeat 500 hostile mobs.",
+  "category": "COMBAT",
+  "condition": {
+    "statKey": "mobs_killed",
+    "thresholdValue": 500
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_blueprint_watchtower"
+  ],
+  "repeatable": false
+}

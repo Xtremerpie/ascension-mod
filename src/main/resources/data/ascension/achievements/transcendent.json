@@ -1,0 +1,14 @@
+{
+  "id": "transcendent",
+  "title": "Transcendent",
+  "description": "Reach Ascension Level 20.",
+  "category": "ASCENSION",
+  "condition": {
+    "statKey": "ascension_level",
+    "thresholdValue": 20
+  },
+  "rewardIds": [
+    "reward_item_diamonds_medium"
+  ],
+  "repeatable": false
+}

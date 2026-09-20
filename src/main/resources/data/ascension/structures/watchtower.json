@@ -1,0 +1,13 @@
+{
+  "id": "watchtower",
+  "name": "Watchtower",
+  "description": "A simple 5x5 stone-brick tower with an observation platform.",
+  "sizeX": 5,
+  "sizeY": 12,
+  "sizeZ": 5,
+  "materials": {
+    "minecraft:stone_bricks": 260,
+    "minecraft:oak_planks": 25,
+    "minecraft:ladder": 10
+  }
+}

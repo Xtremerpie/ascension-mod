@@ -1,0 +1,13 @@
+{
+  "id": "archer_tower",
+  "name": "Archer Tower",
+  "description": "A tall, narrow tower with arrow-slit openings on every side, for the Long Shot achievement line.",
+  "sizeX": 5,
+  "sizeY": 16,
+  "sizeZ": 5,
+  "materials": {
+    "minecraft:cobblestone": 320,
+    "minecraft:oak_planks": 25,
+    "minecraft:ladder": 14
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "long_journey",
+  "title": "Long Journey",
+  "description": "Travel 5,000 blocks.",
+  "category": "EXPLORATION",
+  "condition": {
+    "statKey": "distance_travelled_blocks",
+    "thresholdValue": 5000
+  },
+  "rewardIds": [
+    "reward_xp_medium",
+    "reward_item_iron"
+  ],
+  "repeatable": false
+}

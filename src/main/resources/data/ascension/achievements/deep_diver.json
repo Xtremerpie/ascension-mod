@@ -1,0 +1,14 @@
+{
+  "id": "deep_diver",
+  "title": "Deep Diver",
+  "description": "Descend 64 blocks below sea level.",
+  "category": "SURVIVAL",
+  "condition": {
+    "statKey": "depth_below_sea_level_blocks",
+    "thresholdValue": 64
+  },
+  "rewardIds": [
+    "reward_xp_medium"
+  ],
+  "repeatable": false
+}

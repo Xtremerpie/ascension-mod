@@ -1,0 +1,15 @@
+{
+  "id": "precision_hunter",
+  "title": "Precision Hunter",
+  "description": "Defeat 100 hostile mobs.",
+  "category": "COMBAT",
+  "condition": {
+    "statKey": "mobs_killed",
+    "thresholdValue": 100
+  },
+  "rewardIds": [
+    "reward_xp_medium",
+    "reward_item_iron"
+  ],
+  "repeatable": false
+}

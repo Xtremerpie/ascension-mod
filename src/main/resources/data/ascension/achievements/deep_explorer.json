@@ -1,0 +1,15 @@
+{
+  "id": "deep_explorer",
+  "title": "Deep Explorer",
+  "description": "Travel 15,000 blocks in total.",
+  "category": "EXPLORATION",
+  "condition": {
+    "statKey": "distance_travelled_blocks",
+    "thresholdValue": 15000
+  },
+  "rewardIds": [
+    "reward_xp_large",
+    "reward_blueprint_explorer_camp"
+  ],
+  "repeatable": false
+}

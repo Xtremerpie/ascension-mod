@@ -1,0 +1,14 @@
+{
+  "id": "explorer",
+  "title": "Explorer",
+  "description": "Travel 1,000 blocks.",
+  "category": "EXPLORATION",
+  "condition": {
+    "statKey": "distance_travelled_blocks",
+    "thresholdValue": 1000
+  },
+  "rewardIds": [
+    "reward_xp_small"
+  ],
+  "repeatable": false
+}
