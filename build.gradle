@@ -21,15 +21,15 @@ loom {
 }
 
 dependencies {
-	// Minecraft 1.21.11. As of this version Minecraft is still obfuscated
-	// (per Fabric's own 1.21.11 announcement), so official Mojang mappings
-	// are still required — do not skip `mappings`.
+	// ASCENSION's current Java source uses Fabric/Yarn names (for example
+	// MinecraftClient, KeyBinding, InputUtil and PersistentProjectileEntity).
+	// Keep the source and mappings namespace consistent.
 	minecraft "com.mojang:minecraft:${project.minecraft_version}"
-	mappings loom.officialMojangMappings()
+	mappings "net.fabricmc:yarn:${project.yarn_mappings}:v2"
 	modImplementation "net.fabricmc:fabric-loader:${project.loader_version}"
 
-	// Fabric API — required here (not optional) because ASCENSION uses
-	// keybindings, HUD render callbacks, tick events, and the item group API.
+	// Fabric API — required here for keybindings, HUD render callbacks,
+	// tick events, networking and other client/server hooks.
 	modImplementation "net.fabricmc.fabric-api:fabric-api:${project.fabric_version}"
 }
 
